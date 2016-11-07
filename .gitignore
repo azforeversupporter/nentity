@@ -26,4 +26,6 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 /.idea
-/typings
+# Ignore compiled sources
+*.js
+*.js.map
